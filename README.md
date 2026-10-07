@@ -1,5 +1,3 @@
-# EspejoSolarLaLunaYEl-Sol
-Bloc de Nota
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -8,16 +6,15 @@ Bloc de Nota
     <title>El Espejo y la Sombra</title>
     <style>
         body {
-            background-color: #0b0f19;
-            color: #e2e8f0;
-            font-family: 'Georgia', serif;
+            background-color: #0b0f19 !important;
+            color: #e2e8f0 !important;
+            font-family: Georgia, serif;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
             margin: 0;
             padding: 20px;
-            box-sizing: border-box;
         }
         .container {
             max-width: 600px;
